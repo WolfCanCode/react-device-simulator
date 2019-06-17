@@ -4,7 +4,6 @@ import classNamesBind from 'classnames/bind'
 import styles from './index.scss'
 
 const DEFAULT_DEVICES = [
-  { name: 'None', width: '100%', height: '100%' },
   { name: 'iPhone 5', width: 320, height: 568 },
   { name: 'iPhone 6', width: 376, height: 667 },
   { name: 'iPhone 6 Plus', width: 414, height: 736 },
